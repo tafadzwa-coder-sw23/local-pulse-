@@ -1,0 +1,7 @@
+{
+  "name": "LocalPulse",
+  "description": "A crowdsourced local event discovery platform powered by community ratings and AI-driven recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
